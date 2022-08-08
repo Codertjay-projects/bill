@@ -1,0 +1,5 @@
+bill breakdown: 
+cake:                     ...$22 
+coffie:                   ...$34 
+tip:                      ...$22 
+total:                    ...$78.000

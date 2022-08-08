@@ -1,0 +1,4 @@
+bill breakdown: 
+demo:                     ...$4 
+tip:                      ...$0 
+total:                    ...$4.000
